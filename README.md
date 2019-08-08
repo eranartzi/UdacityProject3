@@ -17,6 +17,9 @@ Mac: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip
 Windows 32Bit: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip
 Windows 64Bit: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip
 
+For an installation of Python and the relevant dependencies please follow the instructions in this link: 
+https://github.com/udacity/deep-reinforcement-learning#dependencies
+
 
 Run all the cells in Tennis_SelfWork.ipynb to train the agent
 
